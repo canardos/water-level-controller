@@ -1,7 +1,5 @@
 # Software and hardware design for a simple water level controller.
 
-![Schematic](https://blog.duk.io/content/images/2017/09/water-level-min-1.svg)
+Simple water level maintainer for a residential green wall based on an *ATTiny85* MCU.
 
-The system is based on an ATTiny85 and switches an external solenoid based on the data received from a water level sensor.
-
-See [post on duk.io](https://blog.duk.io/building-a-green-wall-automated-water-level-maintainer) for futher details.
+See [article on DuckToast.com](https://www.ducktoast.com/blog/electronics-projects/green-wall/building-a-green-wall-automated-water-level-maintainer/) for further details.
